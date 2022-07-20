@@ -111,7 +111,10 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 
 _Alphabet of Japanese language._
 
+- [Clickable Japanese Hiragana](https://www.sporcle.com/games/bazmerelda/hiragana) - Alphabet Games
+
 - Hiragana
+  - [Hiragana Chart](https://www.learn-japanese-adventure.com/hiragana-chart.html) - Hiragana Chart
   - [Tofugu for Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) - Hiragana lesson.
   - [Learn Hiragana in 1 Hour](https://youtu.be/6p9Il_j0zjc) - Hiragana video lesson.
   - [Hiragana Practice Sheet](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Print and practice.
